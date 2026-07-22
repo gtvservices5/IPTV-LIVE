@@ -214,7 +214,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon+1.uk" tvg-name="Nickelodeon UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="Kids",Nickelodeon UK
-http://46.149.191.217:9011/play/a018
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" tvg-language="en" group-title="Kids",Nick Jr. USA
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
