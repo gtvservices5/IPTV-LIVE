@@ -112,9 +112,6 @@ http://206.212.244.63/650/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" tvg-language="en" group-title="Kids",Disney Junior USA 
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-
-#EXTINF:-1 tvg-name="Disney Junior UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-jr-uk.png" tvg-language="en" group-title="Kids", Disney Junior UK
 http://tvsen7.aynascope.net/disney/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/disney-xd-hd-us.png" tvg-language="en" group-title="Kids",Disney XD USA
@@ -223,22 +220,16 @@ https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedyce
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr. USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" tvg-language="en" group-title="Kids",Nick Jr. USA
-https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="Nick.Jr+1.uk" tvg-name="Nick Jr. UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-uk.png" tvg-language="en" group-title="Kids",Nick Jr. UK
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" tvg-language="en" group-title="Kids",Nicktoons USA 
-https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-toons-uk.png" group-title="Kids",Nicktoons UK
 http://tvsen7.aynascope.net/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" tvg-language="en" group-title="Music",NickMusic USA 
 https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" tvg-language="en" group-title="Kids",TeenNick USA
-https://tvpass.org/live/TeenNickEast/sd|Referer=https://tvpass.org/
+http://tvsen7.aynascope.net/teennick/index.m3u8
 
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dot-icon-us.png" tvg-language="en" group-title="Kids",PBS Kids USA
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
