@@ -214,7 +214,7 @@ https://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="nick.de" tvg-name="Nickelodeon Germany" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nick-de.png" group-title="Kids",Nickelodeon Deutschland
-https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 
 #EXTINF:-1 tvg-id="Nickelodeon+1.uk" tvg-name="Nickelodeon UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nickelodeon-uk.png" group-title="Kids",Nickelodeon UK
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
