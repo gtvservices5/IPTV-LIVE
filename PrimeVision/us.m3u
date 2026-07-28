@@ -130,7 +130,7 @@ http://206.212.244.63/66/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/fxm-movie-channel-hd-us.png" tvg-language="en" group-title="Movies",FX Movie Channel USA 
-https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+http://40.160.24.52/FXM/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX Network USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/fxx-hd-us.png" tvg-language="en" group-title="International/Premium",FXX Network USA 
 http://23.237.104.106:8080/USA_FXX/index.m3u8
@@ -184,10 +184,10 @@ http://206.212.244.63/103/index.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-us.png" tvg-language="en" group-title="Movies",MGM+ USA
-https://fl31.moveonjoy.com/EPIX/index.m3u8
+https://gpuserver3.tier1streams.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-marquee-us.png" tvg-language="en" group-title="Movies",MGM+ Marquee USA 
-https://fl31.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mgm-plus-drive-in-us.png" tvg-language="en" group-title="Movies",MGM+ Drive-In USA 
+https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" tvg-language="en" group-title="Kids",Nickelodeon USA
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
@@ -208,7 +208,7 @@ http://tvsen7.aynascope.net/teennick/index.m3u8
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One USA" tvg-logo="https://www.vhv.rs/dpng/d/560-5607033_tv-one-us-channel-logo-hd-png-download.png" tvg-language="en" group-title="Entertainment/General",TV One USA
-https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+http://206.212.244.63/166/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/paramount-network-icon-hd-us.png" tvg-language="en" group-title="Entertainment/General",Paramount Network USA 
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
@@ -237,8 +237,8 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-comedy-us.png" tvg-language="en" group-title="Movies",Starz Comedy USA
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-action-us.png" tvg-language="en" group-title="Movies",Starz Encore Action USA
-https://fl31.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Kids & Family USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-kids-and-family-us.png" tvg-language="en" group-title="Movies",Starz Kids & Family USA
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/starz-encore-classic-us.png" tvg-language="en" group-title="Movies",Starz Encore Classic USA 
 https://fl31.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
@@ -247,7 +247,7 @@ https://fl31.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="Yes Network USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/yes-network-us.png" group-title="Sports",Yes Network USA
-https://fl31.moveonjoy.com/YES_NETWORK/index.m3u8
+http://40.160.24.55/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png?t=639012947480000000" radio="true" group-title="Radio Stations",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
