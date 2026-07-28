@@ -196,7 +196,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://fl31.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-toons-us.png" tvg-language="en" group-title="Kids",Nicktoons USA 
-https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+https://tvsen7.aynascope.net/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Music.us2" tvg-name="NickMusic USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-music-us.png" tvg-language="en" group-title="Music",NickMusic USA 
 https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
