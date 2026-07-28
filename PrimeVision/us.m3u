@@ -202,7 +202,7 @@ https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
 https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="TeenNick USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" tvg-language="en" group-title="Kids",TeenNick USA
-https://tvpass.org/live/TeenNickEast/sd|Referer=https://tvpass.org/
+http://tvsen7.aynascope.net/teennick/index.m3u8
 
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dot-icon-us.png" tvg-language="en" group-title="Kids",PBS Kids USA
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
