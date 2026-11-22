@@ -92,7 +92,7 @@ http://212.5.144.156/disney/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" tvg-language="en" group-title="Kids",Disney Junior USA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://tvsen7.aynascope.net/disney/index.m3u8
+http://212.5.144.156/disneyjr/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hd/disney-xd-hd-us.png" tvg-language="en" group-title="Kids",Disney XD USA
 http://89.187.179.148:826/1368/gXwiagaXda/1672
