@@ -8,6 +8,8 @@ https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 
 #EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="Kids/Teens",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoonito-uk.png" group-title="Kids/Teens",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
 
 #EXTINF:-1 tvg-id="CBBC.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-cbbc-uk.png" group-title="Kids/Teens",CBBC UK
 https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
