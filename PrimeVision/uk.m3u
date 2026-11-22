@@ -6,6 +6,9 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.
 #EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-alba-uk.png" group-title="Lifestyle/Entertainment",BBC Alba UK
 https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 
+#EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/cartoon-network-uk.png" group-title="Kids/Teens",Cartoon Network CEE
+http://193.33.39.108:9007/play/a00l
+
 #EXTINF:-1 tvg-id="CBBC.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-cbbc-uk.png" group-title="Kids/Teens",CBBC UK
 https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
 
