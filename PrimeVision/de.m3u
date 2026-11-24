@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="Comedy.Central.de" tvg-name="Comedy Central Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/comedy-central-de.png" group-title="Lifestyle/Unterhaltung",Comedy Central Deutschland
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-name="Cartoon Network CEE Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/cartoon-network-de.png" group-title="Kinder",Cartoon Network CEE Deutschland
+#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-name="Cartoon Network CEE Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/cartoon-network-de.png" group-title="Kinder" user-agent"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",Cartoon Network CEE Deutschland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://94.130.48.67:8042/stream/109/index.m3u8
 
