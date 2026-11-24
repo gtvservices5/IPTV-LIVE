@@ -16,6 +16,14 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3
 #EXTINF:-1 tvg-id="nick.de" tvg-name="Nickelodeon Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nick-de.png" group-title="Kinder", Nickelodeon Deutschland
 http://90.183.52.46:4000/play/a046/index.m3u8
 
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Cartoonito Asia Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.(HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",Cartoon Network Asia Singapore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
 #EXTINF:-1 tvg-id="3ABN.Dare.to.Dream.Network.us2" tvg-name="3ABN Dare to Dream Netwok USA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/3abn-dare-to-dream-network-us.png" tvg-language="en" group-title="Religious",3ABN Dare to Dream Network USA
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 
