@@ -13,5 +13,5 @@ https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music Deutschland" tvg-logo="https://i.imgur.com/E65GQN9.png" group-title="Musik",Deluxe Music Deutschland
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
 
-#EXTINF:-1 tvg-id="nick.de" tvg-name="Nickelodeon Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nick-de.png" group-title="Kinder", Nickelodeon Deutschland
+#EXTINF:-1 tvg-id="nick.de" tvg-name="Nickelodeon Deutschland" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/nick-de.png" group-title="Kinder",Nickelodeon Deutschland
 http://90.183.52.46:4000/play/a046/index.m3u8
